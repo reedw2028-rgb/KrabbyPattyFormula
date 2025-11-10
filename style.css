@@ -1,0 +1,63 @@
+.title {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  font-size: 40px;
+}
+.patty{
+  color: whitesmoke;
+  font-size: 35px;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  color: red;
+}
+
+.layout {
+  width: 100%;
+  display: flex;
+  gap: 50px;
+  font-size: 25px;
+  justify-content: center;
+  color: darkblue;
+}
+.secondsection {
+  width: 100%;
+  display: flex;
+  gap: 50px;
+  font-size: 25px;
+  justify-content: center;
+  color: darkblue;
+
+}
+.opp {
+  padding-top: 120px;
+}
+body {
+  background-color: deepskyblue;
+}
+
+.instuctions {
+  padding-top: 120px;
+
+}
+img {
+  border-radius: 90px;
+}
+.howtomakeit {
+  text-align: left;
+}
+
+.MRKRABS {
+  text-align: center;
+  color: #8B4000;
+  font-size: 20px;
+}
+
+.kelp {
+  text-align: center;
+  color: #8B4000;
+  padding-bottom: 20px;
+  font-size: 20px;
+}
