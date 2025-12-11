@@ -4,6 +4,7 @@
   text-align: center;
   font-size: 40px;
 }
+
 .patty{
   color: whitesmoke;
   font-size: 35px;
@@ -36,8 +37,12 @@ h2 {
 }
 body {
   background-color: deepskyblue;
+  text-align: center;
 }
 
+li {
+  text-align: left;
+}
 .instuctions {
   padding-top: 120px;
 
@@ -60,4 +65,28 @@ img {
   color: #8B4000;
   padding-bottom: 20px;
   font-size: 20px;
+}
+
+.review {
+  text-align: center;
+  color: darkblue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 30px;
+}
+
+.written {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: darkblue;
+}
+
+.firstdropdown {
+  color: blueviolet;
+  display: fl;
+}
+
+.DP {
+  display: flex;
+  justify-content: center;
 }
